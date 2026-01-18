@@ -129,6 +129,7 @@ app/
         └── main.js        # JavaScript functionality
 ```
 
+
 ## Features in Detail
 
 ### Advanced Recommendation Algorithm

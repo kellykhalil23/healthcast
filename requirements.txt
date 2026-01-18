@@ -1,0 +1,13 @@
+# Web framework
+fastapi==0.116.1
+uvicorn==0.35.0
+python-multipart==0.0.20
+jinja2==3.1.6
+
+# Data processing
+numpy==2.2.6
+pandas==2.3.1
+scikit-learn==1.7.0
+
+# ML / Embeddings (torch and transformers are auto-installed as dependencies)
+sentence-transformers==5.0.0
